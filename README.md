@@ -1,7 +1,8 @@
+A load balanced, auto-scaling ECS service deployed with fully automated CI/CD through CodePipeline as a (very) compact infrastructure code.
 
-# Welcome to your CDK Python project!
+Actual documentation TBC.
 
-This is a blank project for Python development with CDK.
+# Running this code
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
@@ -56,3 +57,11 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+# Resources
+https://docs.aws.amazon.com/cdk/v2/guide/core_concepts.html
+
+https://docs.aws.amazon.com/cdk/v2/guide/cdk_pipeline.html
+
+https://github.com/aws-samples/aws-cdk-examples/blob/15d6122ea1b9c7a92c0c70c82c84a7bd22641d7c/python/application-load-balancer/app.py#L11
+
